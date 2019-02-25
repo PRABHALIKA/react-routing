@@ -1,0 +1,10 @@
+.menu{
+    line-height: 30px;
+    text-align: right;
+    background: #1bff00;
+}
+
+.menu > span{
+    margin-right: 10px;
+    letter-spacing: 3px;
+}
